@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/25/user/942147).
-* Наставник: `Неизвестно`.
+* Студент: [Кузнецов Даниил](https://up.htmlacademy.ru/htmlcss/25/user/942147).
+* Наставник: [Анна Пономарёва](https://htmlacademy.ru/profile/id153610).
 
 ---
 
